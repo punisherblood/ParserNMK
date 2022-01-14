@@ -1,0 +1,11 @@
+Запуск:
+1. Запустить скрипт ParserNMK.py
+2. Запустить скрипт BotVkNMK.py
+
+Установленные библиотеки:
+bs4
+json
+fake_useragent
+requests
+vk_api.bot_longpoll
+vk_api
